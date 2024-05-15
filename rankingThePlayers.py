@@ -1,5 +1,3 @@
-import database
-
 # the constant for maximum change 
 K = 50
 
